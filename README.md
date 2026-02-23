@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">I'm Gideão Levi, 26 yo, Graduating at Federal University of Ceara</h1>
+<h1 align="center">I'm Gideão Levi, 26 yo, Front End Software Engineer</h1>
 <h3 align="center">A Front End developer from Brazil. I also love to play drums in my spare time!</h3>
 <h3 align="center"> I'm focusing on web development with Vue.js and React, but I also have knowledge on other languages, such as C, Python and Java :) </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levifrota&label=Profile%20views&color=0e75b6&style=flat" alt="levifrota" /> </p>
